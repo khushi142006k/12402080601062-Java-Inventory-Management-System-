@@ -1,4 +1,4 @@
-# 🔧 Technical Documentation — Java Inventory Management System
+# Technical Documentation — Java Inventory Management System
 
 ---
 
